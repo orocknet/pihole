@@ -1,4 +1,4 @@
-# regex untuk dns hanya membaca pada level domain.
+# regex untuk dns hanya membaca di level domain.
 
 ^ns1\.dnsfor([0-9]+)?\.(com|net)$
 ^(.+[-_.])??adv?[sxve]?[0-9]*[-_.]
